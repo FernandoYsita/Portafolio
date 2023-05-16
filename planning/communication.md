@@ -29,13 +29,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### Availability for calling/messaging
 
-| Day    | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
-| ------ | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
-| _name_ | 13 - 20 | 13 - 20 |  13 - 20  | 13 - 20  | 13 - 20 | 13 - 20  | 13 - 20 |
+| Day        | Monday  | Tuesday | Wednesday | Thursday | Friday  |
+| ---------- | :-----: | :-----: | :-------: | :------: | :-----: |
+| _Fernando_ | 09 - 19 | 09 - 19 |  09 - 19  | 09 - 19  | 09 - 19 |
 
 ### How many hours everyone has per day
 
-- Fernando: _10h_; extra comments?
+- Fernando: _10h_; ?
 
 ## Asking for Help
 
