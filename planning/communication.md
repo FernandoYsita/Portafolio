@@ -35,7 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- Fernando: _10h_; extra comments?
+- Fernando: _10h_; ?
 
 ## Asking for Help
 
