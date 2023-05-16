@@ -1,26 +1,27 @@
 # Communication
 
-## Group Rules
-
-<!-- any general rules you'd like to set for your group? -->
+## Rules
 
 ---
 
 ## Communication Schedule
 
-| Day | How | The topic of discussion |
-| --- | :-: | ----------------------- |
-|     |     |                         |
+| Day |  How   | The topic of discussion |
+| --- | :----: | ----------------------- |
+| 1   | online |                         |
+| 2   | online |                         |
+| 3   | online |                         |
+| 4   | online |                         |
 
 ## Communication Channels
 
 how often will we get in touch on each channel, and what we will discuss there:
 
-- **Issues**:
-- **Pull Requests**:
+- **Issues**: Zoom,Slack
+- **Pull Requests**:Onsite,Github,VScode
 - **GitHub Discussions**
 - **Slack/Discord**:
-- **Video Calls**:
+- **Video Calls**:Zomm
 
 ---
 
@@ -34,11 +35,7 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 ### How many hours everyone has per day
 
-- name: _5h_; extra comments?
-- name: _6h_;
-- name: _5h_;
-- name: _4h_;
-- name: _3h_;
+- Fernando: _10h_; extra comments?
 
 ## Asking for Help
 

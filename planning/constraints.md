@@ -1,30 +1,20 @@
 # Constraints
 
-Some boundaries around our project.
-
 ## External
 
-<!--
-  constraints coming from the outside that your team has no control over. these may include:
-  - project deadlines
-  - UI design or color schemes
-  - technologies (sometimes a client will tell you what to use)
--->
+Project Deadline:
+
+- The project must be completed and launched by may 19th, 2023. as a new learner
+  it is difficult to finish in limited time.
 
 ## Internal: Involuntary
 
-<!--
-  constraints that come from within your team, and you have no control over. they may include:
-  - each of your individual skill levels
-  - amount of time available to work on the project
--->
+- The skills css and html
+- i have other commitments outside of work that limit the amount oftime
+  available to work on the project.
+- internet connectivity, may impact my ability to collaborate in real-time.
 
 ## Internal: Voluntary
 
-<!--
-  constraints that your team decided on to help scope the project. they may include:
-  - coding style & conventions
-  - agree on a code review checklist for the project repository
-  - the number of hours you want to spend working
-  - only using the colors black and white
--->
+- Working Hours: i am going to work a maximum of 10 hours per day on the
+  project.
