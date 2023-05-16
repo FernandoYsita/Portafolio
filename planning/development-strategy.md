@@ -1,8 +1,8 @@
-# Project Name
-
-<!-- describe your project -->
+# Portafolio
 
 ---
+
+This project is building a personal portfolio.
 
 ## Setup
 
