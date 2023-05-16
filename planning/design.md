@@ -2,11 +2,7 @@
 
 ## Project's design overview
 
-> Give an overview of your project's design
-
-<!-- give an overview of your project's design -->
-<!-- describe the reasoning behind your group's design and wireframe -->
-<!-- include other centralized decisions like fonts, palates, ... -->
+> Give an overview of your project's design ![image](../public/image/design.png)
 
 ---
 
